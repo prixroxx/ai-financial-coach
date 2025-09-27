@@ -1,0 +1,24 @@
+# Core LangChain + graph orchestration
+langchain-core
+langgraph
+pydantic
+
+# MCP Server (Model Context Protocol)
+fastmcp[cli]
+
+# UI (frontend)
+streamlit
+
+# Data handling + DB
+pandas
+sqlite-utils
+
+# Embeddings + Vector storage (for optional RAG with LanceDB)
+lancedb
+
+# Utilities + API clients
+httpx
+python-dotenv
+
+# OpenAI-compatible client (for OpenRouter Claude / GPT models)
+openai
